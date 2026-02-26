@@ -1,16 +1,34 @@
-## Hi there 👋
+# kayy.m
 
-<!--
-**kayym33/kayym33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+// Third-year Software Engineering student at the University of Strathclyde.  
+// Incoming SWE Intern at JPMorgan Chase.
 
-Here are some ideas to get you started:
+## Tech
+- Python
+- C
+- Java
+- React
+- SQL
+- Haskell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<br>
+
+## Currently Working On
+### Concurrent Discord-Style Chat Application (Java)
+Building a multi-client chat system using Java sockets and threads.
+
+<br>
+
+### Wellbeing Support React Native App (js)
+Developing a mobile app that encourages daily wellbeing habits, with task tracking and social progress sharing between users.
+
+<br>
+
+## Currently Learning
+- Concurrency patterns in Java
+- Foundations of Artificial Intelligence
+- Mobile app architecture
+<br>
+
