@@ -2,7 +2,7 @@
 
 ## About Me
 // Third-year Software Engineering student at the University of Strathclyde.  
-// Incoming SWE Intern at JPMorgan Chase.
+// SWE Intern at JPMorgan Chase.
 
 ## Tech
 - Python
